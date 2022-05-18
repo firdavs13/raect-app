@@ -1,7 +1,6 @@
 import "./App.css";
 import { useState, useRef } from "react";
 import data from "./localization/content";
-import uzFlag from "./assets/images/uz.svg";
 
 function App() {
   const inputValue = useRef();
